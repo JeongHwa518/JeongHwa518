@@ -4,7 +4,7 @@
   
    ### JeongHwa
  
-  <a href="https://github.com/JeongHwa518"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjinueng&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+  <!-- <a href="https://github.com/JeongHwa518"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjinueng&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> -->
   <a href="https://velog.io/@sjoio75/posts"><img src="https://img.shields.io/badge/jeonghwa.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
   <a href="https://www.notion.so/Home-8dfd1c91b29c46b2ad0568e258ba6129?pvs=9"> <img width="71" src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> </a>
 
@@ -13,7 +13,6 @@
 <sub>**📖 KOSTA Java기반 DevOps 개발자 양성 훈련**</sub> <sub><sub>(2024.05.08 ~ 2024.10.15)</sub></sub> <br />
   
 <br />
-</div>
 </div>
 </div>
 <br/>
@@ -50,8 +49,15 @@
 
 
 <br />
+
+<details>
+<summary>Project</summary>
+<div markdown="1">
+    
+|출시|프로젝트|소개|바로가기|
+|:-:|:-|:-|:-:|
+|<sub>2024.10</sub> | **🎀 Wedder** | 결혼 준비 플랫폼 | [🐈](https://github.com/JeongHwa518/Wedder) |
+    
 </div>
-
-<br />
-
+</details>
 
