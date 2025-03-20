@@ -50,6 +50,7 @@
 
 <br />
 
+<!--
 <details>
 <summary>Project</summary>
 <div markdown="1">
@@ -60,4 +61,4 @@
     
 </div>
 </details>
-
+-->
