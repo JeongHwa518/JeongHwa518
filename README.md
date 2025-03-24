@@ -50,15 +50,4 @@
 
 <br />
 
-<!--
-<details>
-<summary>Project</summary>
-<div markdown="1">
-    
-|출시|프로젝트|소개|바로가기|
-|:-:|:-|:-|:-:|
-|<sub>2024.10</sub> | **🎀 Wedder** | 결혼 준비 플랫폼 | [🐈](https://github.com/JeongHwa518/Wedder) |
-    
-</div>
-</details>
--->
+
