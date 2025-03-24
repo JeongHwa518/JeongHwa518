@@ -1,6 +1,6 @@
 <div align="center">
     
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongHwa518&show_icons=true&theme=transparent&hide="/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongHwa518&show_icons=true&theme=transparent"/>
   
    ### JeongHwa
  
